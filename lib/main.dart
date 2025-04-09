@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Smart TV Scanner',
+      title: 'Smart Plug Scanner',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.teal),
       home: SmartPlugScanner(), // Use this
