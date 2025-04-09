@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wifi_iot (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - wifi_iot (from `.symlinks/plugins/wifi_iot/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  wifi_iot:
+    :path: ".symlinks/plugins/wifi_iot/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  wifi_iot: f645260a2be8608517b2a9bf4c39b98e97003acc
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.16.2
